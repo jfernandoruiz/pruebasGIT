@@ -1,5 +1,5 @@
 package disenoPatrones;
-
+// ver si baja
 public abstract class Automovil {
 	protected String modelo;
 	protected String color;
