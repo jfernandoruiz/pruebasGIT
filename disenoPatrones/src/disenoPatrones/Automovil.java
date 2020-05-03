@@ -16,4 +16,4 @@ public abstract class Automovil {
 	public abstract void mostrarCaracteristicas(); 
 }
 
-
+// comentario al final
